@@ -31,6 +31,11 @@ const routes: Routes = [
     loadChildren: () => import('./modules/general/signup/signup.module')
       .then(mod => mod.SignupModule)
   },
+  {
+    path: 'httpclient',
+    loadChildren: () => import('./modules/application/example-items/items.module')
+      .then(mod => mod.ItemsModule)
+  },
   { path: '**', component: NotFoundComponent }
 ];
 

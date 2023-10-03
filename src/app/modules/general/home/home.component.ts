@@ -61,6 +61,12 @@ export class HomeComponent {
           icon: 'far fa-file-alt',
           link: 'forms'
         },
+        {
+          name: 'Items',
+          description: 'Items',
+          icon: 'fab fa-bootstrap',
+          link: 'httpclient'
+        },
       ];
   }
 
