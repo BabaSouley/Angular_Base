@@ -36,6 +36,16 @@ const routes: Routes = [
     loadChildren: () => import('./modules/application/example-items/items.module')
       .then(mod => mod.ItemsModule)
   },
+  {
+    path: 'readjson',
+    loadChildren: () => import('./modules/application/json-read/read-json.module')
+      .then(mod => mod.ReadJsonModule)
+  },
+  {
+    path: 'components',
+    loadChildren: () => import('./modules/application/components/components.module')
+      .then(mod => mod.ComponentsModule)
+  },
   { path: '**', component: NotFoundComponent }
 ];
 

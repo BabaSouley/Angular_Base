@@ -67,6 +67,12 @@ export class HomeComponent {
           icon: 'fab fa-bootstrap',
           link: 'httpclient'
         },
+        {
+          name: 'ReadJson',
+          description: 'Json',
+          icon: 'fab fa-bootstrap',
+          link: 'readJson'
+        },
       ];
   }
 

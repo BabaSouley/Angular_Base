@@ -1,0 +1,2703 @@
+{
+    "OK": true,
+    "BPs": {
+        "BPE2307GESAS20812": {
+            "BP": "BPE2307GESAS20812",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOPEMA BRICORAMA",
+            "nBras": 5,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS20825": {
+            "BP": "BPE2307GESAS20825",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "JOSEPH COTTRELL",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS20827": {
+            "BP": "BPE2307GESAS20827",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BRICOCERAM",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS20991": {
+            "BP": "BPE2307GESAS20991",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "QUINCAILLERIE CALEDONIENNE",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS20823": {
+            "BP": "BPE2307GESAS20823",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "4F INTERNATIONAL",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 4,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS20824": {
+            "BP": "BPE2307GESAS20824",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SIN TUNG HING ACE TARAVAO",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS20813": {
+            "BP": "BPE2307GESAS20813",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN - RSL LE GOL",
+            "nBras": 3,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS20820": {
+            "BP": "BPE2307GESAS20820",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DIFFUSION GENERALE QUINCAILLERIE",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21179": {
+            "BP": "BPE2307GESAS21179",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEGRANDCUB",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21645": {
+            "BP": "BPE2307GESAS21645",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DROUET & LAURENT - BRAY SA",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21567": {
+            "BP": "BPE2307GESAS21567",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "ROSSET PISCINES ROANNE",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21432": {
+            "BP": "BPE2307GESAS21432",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "PROLIANS LOGISTIQUE GRAND OUEST",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS20821": {
+            "BP": "BPE2307GESAS20821",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "FIREX",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS20828": {
+            "BP": "BPE2307GESAS20828",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN SOMABRIC",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS20999": {
+            "BP": "BPE2307GESAS20999",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN RAVATE DUPARC",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21003": {
+            "BP": "BPE2307GESAS21003",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "GENERAL IMPORT MAYOTTE",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21005": {
+            "BP": "BPE2307GESAS21005",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "POLYMAT",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS20830": {
+            "BP": "BPE2307GESAS20830",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "M2D CONSTRUCTION SARL",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 4,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21308": {
+            "BP": "BPE2307GESAS21308",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LE WATT",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 2,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS20997": {
+            "BP": "BPE2307GESAS20997",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LE GAC CAYENNE",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21841": {
+            "BP": "BPE2307GESAS21841",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "M.G.I INTERNATIONAL",
+            "nBras": 4,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21876": {
+            "BP": "BPE2307GESAS21876",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEGRANDCUB",
+            "nBras": 4,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS20996": {
+            "BP": "BPE2307GESAS20996",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "K.A.Z.",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21156": {
+            "BP": "BPE2307GESAS21156",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DJOMO GILBERT",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS20998": {
+            "BP": "BPE2307GESAS20998",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BERNABE SENEGAL",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 3,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21453": {
+            "BP": "BPE2307GESAS21453",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "CEMITEC",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21591": {
+            "BP": "BPE2307GESAS21591",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "TM2I",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21450": {
+            "BP": "BPE2307GESAS21450",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "HELDER",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21452": {
+            "BP": "BPE2307GESAS21452",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LE GAC MATERIAUX KOUROU",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21447": {
+            "BP": "BPE2307GESAS21447",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "PLOMBERIE DES CARAIBES",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21449": {
+            "BP": "BPE2307GESAS21449",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "HELDER",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21588": {
+            "BP": "BPE2307GESAS21588",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LE GAC SAINT LAURENT",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21589": {
+            "BP": "BPE2307GESAS21589",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN RAVATE DUPARC",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21590": {
+            "BP": "BPE2307GESAS21590",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN - RSL LE GOL",
+            "nBras": 3,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21586": {
+            "BP": "BPE2307GESAS21586",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "PLOMBERIE DES CARAIBES",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21979": {
+            "BP": "BPE2307GESAS21979",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "QUINCAILLERIE CALEDONIENNE",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22123": {
+            "BP": "BPE2307GESAS22123",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOPSAR",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22124": {
+            "BP": "BPE2307GESAS22124",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOPSAR",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22125": {
+            "BP": "BPE2307GESAS22125",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "MICAB SAS",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21982": {
+            "BP": "BPE2307GESAS21982",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "CIE COMMERCIALE DU PORT FRANC",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21983": {
+            "BP": "BPE2307GESAS21983",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOPSA TIE ST MARTIN",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21985": {
+            "BP": "BPE2307GESAS21985",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "MANUIA ACHATS",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21978": {
+            "BP": "BPE2307GESAS21978",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DISTRIBUTION PLOMBERIE SANITAIRE",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21842": {
+            "BP": "BPE2307GESAS21842",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "S.N.R.I.",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21837": {
+            "BP": "BPE2307GESAS21837",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LES MATERIAUX REUNIS",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21839": {
+            "BP": "BPE2307GESAS21839",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "CHADWICKS CENTRAL WAREHOUSE",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS21980": {
+            "BP": "BPE2307GESAS21980",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOCOMECO",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22432": {
+            "BP": "BPE2307GESAS22432",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "PLOMBERIE DES CARAIBES",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22668": {
+            "BP": "BPE2307GESAS22668",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEGALLAIS",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 2,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22234": {
+            "BP": "BPE2307GESAS22234",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LE GAC CAYENNE",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22235": {
+            "BP": "BPE2307GESAS22235",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 6,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22236": {
+            "BP": "BPE2307GESAS22236",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN SOMABRIC",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22232": {
+            "BP": "BPE2307GESAS22232",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "ETS DE SAINT QUENTIN",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22435": {
+            "BP": "BPE2307GESAS22435",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN RAVATE DUPARC",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22436": {
+            "BP": "BPE2307GESAS22436",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN - RSL LE GOL",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22433": {
+            "BP": "BPE2307GESAS22433",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOCIMAT",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22434": {
+            "BP": "BPE2307GESAS22434",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DIACFA ACCESSOIRES",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22670": {
+            "BP": "BPE2307GESAS22670",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "STAC EST ATTON",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 2,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23157": {
+            "BP": "BPE2307GESAS23157",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOPSAG",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22431": {
+            "BP": "BPE2307GESAS22431",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DUCOS QUINCAILLERIE",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23008": {
+            "BP": "BPE2307GESAS23008",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN - RSL LE GOL",
+            "nBras": 3,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22534": {
+            "BP": "BPE2307GESAS22534",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "RESEAUX PLUS SARL",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22779": {
+            "BP": "BPE2307GESAS22779",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOCIETE DE NEGOCE  INTERNATIONAL",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22780": {
+            "BP": "BPE2307GESAS22780",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "COMPAGNIE EUROPEENNE DE NEGOCE",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22784": {
+            "BP": "BPE2307GESAS22784",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "GITEX TRADING",
+            "nBras": 4,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22964": {
+            "BP": "BPE2307GESAS22964",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOMABRI SAS",
+            "nBras": 6,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22965": {
+            "BP": "BPE2307GESAS22965",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SAS TORGAL ETS GASCHET",
+            "nBras": 4,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23406": {
+            "BP": "BPE2307GESAS23406",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "JOSEPH COTTRELL",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22778": {
+            "BP": "BPE2307GESAS22778",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "S.O.S.I.E.",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23407": {
+            "BP": "BPE2307GESAS23407",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "RD DISTRIBUTION",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23408": {
+            "BP": "BPE2307GESAS23408",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "VBP POLYNESIE",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22966": {
+            "BP": "BPE2307GESAS22966",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 4,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22967": {
+            "BP": "BPE2307GESAS22967",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 5,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22968": {
+            "BP": "BPE2307GESAS22968",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22969": {
+            "BP": "BPE2307GESAS22969",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 3,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22970": {
+            "BP": "BPE2307GESAS22970",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 3,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22971": {
+            "BP": "BPE2307GESAS22971",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 3,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS22972": {
+            "BP": "BPE2307GESAS22972",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23159": {
+            "BP": "BPE2307GESAS23159",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN RAVATE DUPARC",
+            "nBras": 5,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23160": {
+            "BP": "BPE2307GESAS23160",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN SOMABRIC",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23273": {
+            "BP": "BPE2307GESAS23273",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "HYPERMAT - BALLANDE S.A.",
+            "nBras": 3,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23274": {
+            "BP": "BPE2307GESAS23274",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "QUINCAILLERIE 2000 MADAGASCAR SARL",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23276": {
+            "BP": "BPE2307GESAS23276",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "4F INTERNATIONAL",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23660": {
+            "BP": "BPE2307GESAS23660",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "UNITEC PLUS",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23767": {
+            "BP": "BPE2307GESAS23767",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "GEB POLSKA SP. Z O.O.",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 3,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23540": {
+            "BP": "BPE2307GESAS23540",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "STAC DSC SATOLAS ET BONCE",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23658": {
+            "BP": "BPE2307GESAS23658",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN - RSL LE GOL",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS23984": {
+            "BP": "BPE2308GESAS23984",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "RICHARDSON UG",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23501": {
+            "BP": "BPE2307GESAS23501",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DIALLO FRERES & FILS",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23313": {
+            "BP": "BPE2307GESAS23313",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "4F INTERNATIONAL",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 2,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23314": {
+            "BP": "BPE2307GESAS23314",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 6,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23657": {
+            "BP": "BPE2307GESAS23657",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BTP SERVICES LA REUNION",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23768": {
+            "BP": "BPE2307GESAS23768",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BATI PLUS",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 5,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23769": {
+            "BP": "BPE2307GESAS23769",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOCARIMEX",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23772": {
+            "BP": "BPE2307GESAS23772",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN RAVATE DUPARC",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23773": {
+            "BP": "BPE2307GESAS23773",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN SOMABRIC",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS23979": {
+            "BP": "BPE2308GESAS23979",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "STAC BRIE COMTE ROBERT",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 2,
+            "nbHorsGabarit": 0
+        },
+        "BPE2307GESAS23315": {
+            "BP": "BPE2307GESAS23315",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "FIREX",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24293": {
+            "BP": "BPE2308GESAS24293",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEGRANDCUB",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24381": {
+            "BP": "BPE2308GESAS24381",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "ENVAIN MATERIAUX",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS23930": {
+            "BP": "BPE2308GESAS23930",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "FIREX",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS23931": {
+            "BP": "BPE2308GESAS23931",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "COMPAGNIE EUROPEENNE DE NEGOCE",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 3,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24434": {
+            "BP": "BPE2308GESAS24434",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "GLOBAL INTERNATIONAL",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24199": {
+            "BP": "BPE2308GESAS24199",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "WELDOM CHATEAU THIERRY",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 7,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24158": {
+            "BP": "BPE2308GESAS24158",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "KDI DAVUM OCEAN INDIEN",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24159": {
+            "BP": "BPE2308GESAS24159",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOPSAG",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24160": {
+            "BP": "BPE2308GESAS24160",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "FIREX",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24260": {
+            "BP": "BPE2308GESAS24260",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOPSA TIE ST MARTIN",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24551": {
+            "BP": "BPE2308GESAS24551",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "STE DISTRIBUTION BRICOLAGE SDBJN",
+            "nBras": 3,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24668": {
+            "BP": "BPE2308GESAS24668",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DISTRIBUTION PLOMBERIE SANITAIRE",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24538": {
+            "BP": "BPE2308GESAS24538",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOPSA TP",
+            "nBras": 5,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24672": {
+            "BP": "BPE2308GESAS24672",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BALBINE LA REUNION",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24673": {
+            "BP": "BPE2308GESAS24673",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BERNABE COTE DIVOIRE SA",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24432": {
+            "BP": "BPE2308GESAS24432",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN RAVATE DUPARC",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24433": {
+            "BP": "BPE2308GESAS24433",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN SOMABRIC",
+            "nBras": 3,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24747": {
+            "BP": "BPE2308GESAS24747",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SIN TUNG HING ACE TARAVAO",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24748": {
+            "BP": "BPE2308GESAS24748",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "CODIRIS",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24670": {
+            "BP": "BPE2308GESAS24670",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "PLOMBERIE DES CARAIBES",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24671": {
+            "BP": "BPE2308GESAS24671",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "ETS DE SAINT QUENTIN",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24953": {
+            "BP": "BPE2308GESAS24953",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "CHAMSUL MADAGASCAR",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24948": {
+            "BP": "BPE2308GESAS24948",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "MICAB SAS",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25307": {
+            "BP": "BPE2308GESAS25307",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "APOGON SAS",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24844": {
+            "BP": "BPE2308GESAS24844",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOPSAR",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24845": {
+            "BP": "BPE2308GESAS24845",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "HELDER",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24846": {
+            "BP": "BPE2308GESAS24846",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "HELDER",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24850": {
+            "BP": "BPE2308GESAS24850",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOPSAR",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24674": {
+            "BP": "BPE2308GESAS24674",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN - RSL LE GOL",
+            "nBras": 5,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24746": {
+            "BP": "BPE2308GESAS24746",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DUCOS QUINCAILLERIE",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24669": {
+            "BP": "BPE2308GESAS24669",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "PLOMBERIE DES CARAIBES",
+            "nBras": 4,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24851": {
+            "BP": "BPE2308GESAS24851",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "POLYMAT",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25326": {
+            "BP": "BPE2308GESAS25326",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DESAMAIS DISTRIBUTION",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 7,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24944": {
+            "BP": "BPE2308GESAS24944",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "FIT",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24945": {
+            "BP": "BPE2308GESAS24945",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEVEUGLE PIERRE ETS (DOM TOM)",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24946": {
+            "BP": "BPE2308GESAS24946",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "MORGAN VERNEX IMPORT",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24947": {
+            "BP": "BPE2308GESAS24947",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BERNABE COTE DIVOIRE SA",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 7,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS24943": {
+            "BP": "BPE2308GESAS24943",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "PLOMBERIE DES CARAIBES",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25231": {
+            "BP": "BPE2308GESAS25231",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN FRANCE",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25447": {
+            "BP": "BPE2308GESAS25447",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "CHAMSUL MADAGASCAR",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25591": {
+            "BP": "BPE2308GESAS25591",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "ZYKE AQUA ESPACE ET ACCESSOIRES",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25939": {
+            "BP": "BPE2308GESAS25939",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "AFER",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25565": {
+            "BP": "BPE2308GESAS25565",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOCIETE DE NEGOCE  INTERNATIONAL",
+            "nBras": 3,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25704": {
+            "BP": "BPE2308GESAS25704",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "MARIAGE AFRO",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25319": {
+            "BP": "BPE2308GESAS25319",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25320": {
+            "BP": "BPE2308GESAS25320",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 3,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25321": {
+            "BP": "BPE2308GESAS25321",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25322": {
+            "BP": "BPE2308GESAS25322",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 4,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25443": {
+            "BP": "BPE2308GESAS25443",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "CPT CIAL DU SENEGAL",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25742": {
+            "BP": "BPE2308GESAS25742",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEGALLAIS",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 3,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25745": {
+            "BP": "BPE2308GESAS25745",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "MB LOG ETAB DE CAHORS",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 4,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25445": {
+            "BP": "BPE2308GESAS25445",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "NOBEL S.A",
+            "nBras": 4,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25446": {
+            "BP": "BPE2308GESAS25446",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN RAVATE DUPARC",
+            "nBras": 5,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25750": {
+            "BP": "BPE2308GESAS25750",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DIFFUSION GENERALE QUINCAILLERIE",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25703": {
+            "BP": "BPE2308GESAS25703",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOCIMAT",
+            "nBras": 3,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25849": {
+            "BP": "BPE2308GESAS25849",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DIFFUSION GENERALE QUINCAILLERIE",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25566": {
+            "BP": "BPE2308GESAS25566",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25848": {
+            "BP": "BPE2308GESAS25848",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "CIE COMMERCIALE DU PORT FRANC",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25882": {
+            "BP": "BPE2308GESAS25882",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "MR BRICOLAGE TAHITI",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25976": {
+            "BP": "BPE2308GESAS25976",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN RAVATE DUPARC",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS26059": {
+            "BP": "BPE2308GESAS26059",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "PILPO\u00caLE",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 2,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS26485": {
+            "BP": "BPE2308GESAS26485",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN SOMABRIC",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS26234": {
+            "BP": "BPE2308GESAS26234",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "COMPTOIR GENERAL DE ROBINETTERIE",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 2,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS26281": {
+            "BP": "BPE2308GESAS26281",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "CALIFORNIE POOL",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS25983": {
+            "BP": "BPE2308GESAS25983",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "WELDOM CHATEAU THIERRY",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 2,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS26109": {
+            "BP": "BPE2308GESAS26109",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LE GAC CAYENNE",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS26486": {
+            "BP": "BPE2308GESAS26486",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN SOMABRIC",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS26846": {
+            "BP": "BPE2309GESAS26846",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "IDFLOG LA PLATEFORME DU BATI",
+            "nBras": 4,
+            "nPriorite": 1,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS26487": {
+            "BP": "BPE2308GESAS26487",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BRICOCERAM",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS26617": {
+            "BP": "BPE2309GESAS26617",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DISTRIBUTION PLOMBERIE SANITAIRE",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2308GESAS26280": {
+            "BP": "BPE2308GESAS26280",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN - RSL LE GOL",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS26743": {
+            "BP": "BPE2309GESAS26743",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SODIGIS",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS26770": {
+            "BP": "BPE2309GESAS26770",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "MB LOG VOIVRES",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 2,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS26722": {
+            "BP": "BPE2309GESAS26722",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN FRANCE SA",
+            "nBras": 3,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27383": {
+            "BP": "BPE2309GESAS27383",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "STE TUNISIENNE DE QUINCAILLERIE",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27410": {
+            "BP": "BPE2309GESAS27410",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "ENVAIN MATERIAUX",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS26741": {
+            "BP": "BPE2309GESAS26741",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "FIREX",
+            "nBras": 4,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS26955": {
+            "BP": "BPE2309GESAS26955",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEGRANDCUB",
+            "nBras": 5,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS26919": {
+            "BP": "BPE2309GESAS26919",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "STAC DSC SATOLAS ET BONCE",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27690": {
+            "BP": "BPE2309GESAS27690",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SAS TORGAL ETS GASCHET",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27689": {
+            "BP": "BPE2309GESAS27689",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DISMA",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27392": {
+            "BP": "BPE2309GESAS27392",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "POLYMAT",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27390": {
+            "BP": "BPE2309GESAS27390",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEVEUGLE (AFRIQUE)",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 3,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27149": {
+            "BP": "BPE2309GESAS27149",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOCIETE DE NEGOCE  INTERNATIONAL",
+            "nBras": 5,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27371": {
+            "BP": "BPE2309GESAS27371",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27095": {
+            "BP": "BPE2309GESAS27095",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "PLOMBERIE DES CARAIBES",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27385": {
+            "BP": "BPE2309GESAS27385",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "PLOMBERIE DES CARAIBES",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27386": {
+            "BP": "BPE2309GESAS27386",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "PLOMBERIE DES CARAIBES",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27435": {
+            "BP": "BPE2309GESAS27435",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "PLOMBERIE DES CARAIBES",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27650": {
+            "BP": "BPE2309GESAS27650",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "S.O.S.I.E.",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27695": {
+            "BP": "BPE2309GESAS27695",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BRICOCERAM",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27641": {
+            "BP": "BPE2309GESAS27641",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "TEREVA",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 3,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28162": {
+            "BP": "BPE2309GESAS28162",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SUN PISCINES",
+            "nBras": 3,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28279": {
+            "BP": "BPE2309GESAS28279",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BFL",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27877": {
+            "BP": "BPE2309GESAS27877",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEGRANDCUB",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27554": {
+            "BP": "BPE2309GESAS27554",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "GEB POLSKA SP. Z O.O.",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 4,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27652": {
+            "BP": "BPE2309GESAS27652",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DISTRIBUTION PLOMBERIE SANITAIRE",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27653": {
+            "BP": "BPE2309GESAS27653",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "HELDER",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27387": {
+            "BP": "BPE2309GESAS27387",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOPSAR",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27389": {
+            "BP": "BPE2309GESAS27389",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOPSAR",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27391": {
+            "BP": "BPE2309GESAS27391",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN RAVATE DUPARC",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27384": {
+            "BP": "BPE2309GESAS27384",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DUCOS QUINCAILLERIE",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27784": {
+            "BP": "BPE2309GESAS27784",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "HELDER",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27306": {
+            "BP": "BPE2309GESAS27306",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DAVUM - CMM GABON",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27969": {
+            "BP": "BPE2309GESAS27969",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "S.N.R.I.",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27970": {
+            "BP": "BPE2309GESAS27970",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "RD DISTRIBUTION",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27787": {
+            "BP": "BPE2309GESAS27787",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN - RSL LE GOL",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27655": {
+            "BP": "BPE2309GESAS27655",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "TECNOTO",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27779": {
+            "BP": "BPE2309GESAS27779",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LES MATERIAUX REUNIS",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27780": {
+            "BP": "BPE2309GESAS27780",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "ETS DE SAINT QUENTIN",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27781": {
+            "BP": "BPE2309GESAS27781",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOCOMECO",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27782": {
+            "BP": "BPE2309GESAS27782",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "GAUTHIER MAISON FILS",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28153": {
+            "BP": "BPE2309GESAS28153",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOPSAG",
+            "nBras": 5,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28415": {
+            "BP": "BPE2309GESAS28415",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEGRANDCUB",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28159": {
+            "BP": "BPE2309GESAS28159",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "MAXICAR",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28160": {
+            "BP": "BPE2309GESAS28160",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "KAMITE MALICK IBRAHIMA",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28131": {
+            "BP": "BPE2309GESAS28131",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27971": {
+            "BP": "BPE2309GESAS27971",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27972": {
+            "BP": "BPE2309GESAS27972",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27973": {
+            "BP": "BPE2309GESAS27973",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27974": {
+            "BP": "BPE2309GESAS27974",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27975": {
+            "BP": "BPE2309GESAS27975",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BAMAPPRO",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27654": {
+            "BP": "BPE2309GESAS27654",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "FIREX",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28595": {
+            "BP": "BPE2309GESAS28595",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEGRANDCUB",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28759": {
+            "BP": "BPE2309GESAS28759",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "COMET",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28156": {
+            "BP": "BPE2309GESAS28156",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BERNABE SENEGAL",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 2,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28154": {
+            "BP": "BPE2309GESAS28154",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEVEUGLE PIERRE ETS (DOM TOM)",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27964": {
+            "BP": "BPE2309GESAS27964",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BERNABE GABON",
+            "nBras": 4,
+            "nPriorite": 1,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27966": {
+            "BP": "BPE2309GESAS27966",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SIOU LEE",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27967": {
+            "BP": "BPE2309GESAS27967",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "4F INTERNATIONAL",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS27968": {
+            "BP": "BPE2309GESAS27968",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEVEUGLE (AFRIQUE)",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 3,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28155": {
+            "BP": "BPE2309GESAS28155",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "FIREX",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS29175": {
+            "BP": "BPE2309GESAS29175",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SFCP",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28436": {
+            "BP": "BPE2309GESAS28436",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "K.A.Z.",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 2,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28437": {
+            "BP": "BPE2309GESAS28437",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "FIREX",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28438": {
+            "BP": "BPE2309GESAS28438",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BALBINE LA REUNION",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28439": {
+            "BP": "BPE2309GESAS28439",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "COMPAGNIE EUROPEENNE DE NEGOCE",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 6,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28897": {
+            "BP": "BPE2309GESAS28897",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "JOSEPH COTTRELL",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS29168": {
+            "BP": "BPE2309GESAS29168",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "ETABLISSEMENTS MAILLARD",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 12,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28569": {
+            "BP": "BPE2309GESAS28569",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOPSA TIE ST MARTIN",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28442": {
+            "BP": "BPE2309GESAS28442",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN - RSL LE GOL",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28130": {
+            "BP": "BPE2309GESAS28130",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LE GAC MATERIAUX KOUROU",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28565": {
+            "BP": "BPE2309GESAS28565",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SOCIMAT",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28568": {
+            "BP": "BPE2309GESAS28568",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LE GAC SAINT LAURENT",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28440": {
+            "BP": "BPE2309GESAS28440",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "AQUA TREATMENT CENTRE",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 2,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28566": {
+            "BP": "BPE2309GESAS28566",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "D.C.S.M.",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28722": {
+            "BP": "BPE2309GESAS28722",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "CEMITEC",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28723": {
+            "BP": "BPE2309GESAS28723",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN RAVATE DUPARC",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28724": {
+            "BP": "BPE2309GESAS28724",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN SOMABRIC",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28725": {
+            "BP": "BPE2309GESAS28725",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "GENERAL IMPORT MAYOTTE",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28720": {
+            "BP": "BPE2309GESAS28720",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "ETS DE SAINT QUENTIN",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS28721": {
+            "BP": "BPE2309GESAS28721",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SCET",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS29337": {
+            "BP": "BPE2309GESAS29337",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "BOULARD VERDIER",
+            "nBras": 6,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS29820": {
+            "BP": "BPE2310GESAS29820",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "CODIRIS",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS29641": {
+            "BP": "BPE2310GESAS29641",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "FIBC",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS29632": {
+            "BP": "BPE2310GESAS29632",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "CIE COMMERCIALE DU PORT FRANC",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS29170": {
+            "BP": "BPE2309GESAS29170",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "STE COMMERCIALE DE MAT ET BAT",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS29316": {
+            "BP": "BPE2309GESAS29316",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LES MATERIAUX REUNIS",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS29320": {
+            "BP": "BPE2309GESAS29320",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SIDIBS SARL",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 4,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS29720": {
+            "BP": "BPE2310GESAS29720",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "INTERNATIONAL PIECES AUTO",
+            "nBras": 4,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS29624": {
+            "BP": "BPE2310GESAS29624",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "HYPERMAT - BALLANDE S.A.",
+            "nBras": 2,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS29625": {
+            "BP": "BPE2310GESAS29625",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "HYPERMAT - BALLANDE S.A.",
+            "nBras": 4,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS29633": {
+            "BP": "BPE2310GESAS29633",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN RAVATE DUPARC",
+            "nBras": 4,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS29634": {
+            "BP": "BPE2310GESAS29634",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN - RSL LE GOL",
+            "nBras": 5,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2309GESAS29438": {
+            "BP": "BPE2309GESAS29438",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN SOMABRIC",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS29918": {
+            "BP": "BPE2310GESAS29918",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "FERMIT GMBH",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 2,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS29719": {
+            "BP": "BPE2310GESAS29719",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "SAS TORGAL ETS GASCHET",
+            "nBras": 5,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS29821": {
+            "BP": "BPE2310GESAS29821",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "LEROY MERLIN - RSL LE GOL",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS29822": {
+            "BP": "BPE2310GESAS29822",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "E.E.T. ARVAL",
+            "nBras": 2,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS29919": {
+            "BP": "BPE2310GESAS29919",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "DISTRIBUTION PLOMBERIE SANITAIRE",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS29920": {
+            "BP": "BPE2310GESAS29920",
+            "sStatut": "50",
+            "nProg": 100,
+            "rs": "PLOMBERIE DES CARAIBES",
+            "nBras": 5,
+            "nPriorite": 1,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        }
+    },
+    "eTRF1": 0,
+    "eTRF2": 0,
+    "eTRGC": 0,
+    "eTRG2": 0,
+    "BPTRFGC": "",
+    "BPTRFG2": "",
+    "Lignes": 0,
+    "nEncours": 0
+}

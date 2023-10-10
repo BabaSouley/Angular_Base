@@ -1,0 +1,80 @@
+<br>
+
+<ng-template [ngIf]="loaded" [ngIfElse]="loading">
+  <div class="hero-list">
+   ...
+  </div>
+ </ng-template>
+ 
+ <ng-template #loading>
+  <div>Loading...</div>
+ </ng-template>
+
+<div class="row pb-4">
+    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
+      <div class="row pb-4">
+        <div class="card" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Etat </h5>
+            <hr>
+            <p class="card-text">Afficher les BPs</p>
+            <button type="button" class="btn btn-primary mr-4 " (click)="getUsers()">Actualiser</button>
+            <button type="button" class="btn btn-primary offset-1" (click)="resetUsers()">Vider</button>
+          </div>
+        </div>
+        <div *ngIf="!loaded">
+          <div class="spinner-grow text-primary" role="status">
+            <span class="sr-only">Loading...</span>
+          </div>
+          <div class="spinner-grow text-secondary" role="status">
+            <span class="sr-only">Loading...</span>
+          </div>
+          <div class="spinner-grow text-success" role="status">
+            <span class="sr-only">Loading...</span>
+          </div>
+          <div class="spinner-grow text-danger" role="status">
+            <span class="sr-only">Loading...</span>
+          </div>
+          <div class="spinner-grow text-warning" role="status">
+            <span class="sr-only">Loading...</span>
+          </div>
+          <div class="spinner-grow text-info" role="status">
+            <span class="sr-only">Loading...</span>
+          </div>
+          <div class="spinner-grow text-dark" role="status">
+            <span class="sr-only">Loading...</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
+        <div class="row">
+          <div class="table-responsive httpclient-table blue-gradient" *ngIf="loaded">
+            <table class="table table-hover table-striped table-responsive-md">
+              <thead>
+                <tr>
+                  <th scope="col">BP</th>
+                  <th scope="col">Statut</th>
+                  <th scope="col">Progression</th>
+                  <th scope="col">Bras</th>
+                  <th scope="col">Client</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr *ngFor="let bp of listBp">
+
+                    <td>{{bp[1].BP}}</td>
+                    <td > {{bp[1].sStatut}} </td>
+                    <td>{{bp[1].nProg}}</td>
+                    <td>{{bp[1].nBras}}</td>
+                    <td>{{bp[1].rs}}</td>
+
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>  
+  </div>

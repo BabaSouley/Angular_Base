@@ -1,0 +1,293 @@
+{
+    "OK": true,
+    "BPs": {
+        "BPE2310GESAS30148": {
+            "BP": "BPE2310GESAS30148",
+            "sStatut": "5",
+            "nProg": 0,
+            "rs": "SASEB SAS",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30158": {
+            "BP": "BPE2310GESAS30158",
+            "sStatut": "5",
+            "nProg": 0,
+            "rs": "SAS KITBOIS",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 2
+        },
+        "BPE2310GESAS30168": {
+            "BP": "BPE2310GESAS30168",
+            "sStatut": "5",
+            "nProg": 0,
+            "rs": "FIC",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30143": {
+            "BP": "BPE2310GESAS30143",
+            "sStatut": "10",
+            "nProg": 0,
+            "rs": "LEBASKY",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 1
+        },
+        "BPE2310GESAS30179": {
+            "BP": "BPE2310GESAS30179",
+            "sStatut": "5",
+            "nProg": 0,
+            "rs": "RENARD PERE ET FILS",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30173": {
+            "BP": "BPE2310GESAS30173",
+            "sStatut": "2",
+            "nProg": 0,
+            "rs": "SIDER LOGISTICS",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 1
+        },
+        "BPE2310GESAS30141": {
+            "BP": "BPE2310GESAS30141",
+            "sStatut": "20",
+            "nProg": 0,
+            "rs": "CASTORAMA",
+            "nBras": 4,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30147": {
+            "BP": "BPE2310GESAS30147",
+            "sStatut": "5",
+            "nProg": 0,
+            "rs": "TEREVA",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 1
+        },
+        "BPE2310GESAS30175": {
+            "BP": "BPE2310GESAS30175",
+            "sStatut": "5",
+            "nProg": 0,
+            "rs": "FOUSSIER LBA-THIVEL",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30170": {
+            "BP": "BPE2310GESAS30170",
+            "sStatut": "5",
+            "nProg": 0,
+            "rs": "TBS FRANCE EURL",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30172": {
+            "BP": "BPE2310GESAS30172",
+            "sStatut": "5",
+            "nProg": 0,
+            "rs": "SOFINTHER",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30177": {
+            "BP": "BPE2310GESAS30177",
+            "sStatut": "5",
+            "nProg": 0,
+            "rs": "RICHARDSON UG",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 1
+        },
+        "BPE2310GESAS30165": {
+            "BP": "BPE2310GESAS30165",
+            "sStatut": "2",
+            "nProg": 0,
+            "rs": "CHEMBO BEVIL  SA",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30169": {
+            "BP": "BPE2310GESAS30169",
+            "sStatut": "2",
+            "nProg": 0,
+            "rs": "LEGALLAIS",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 2,
+            "nbHorsGabarit": 2
+        },
+        "BPE2310GESAS30163": {
+            "BP": "BPE2310GESAS30163",
+            "sStatut": "20",
+            "nProg": 91,
+            "rs": "COMPAGNIE EUROPEENNE DE NEGOCE",
+            "nBras": 3,
+            "nPriorite": 2,
+            "nBadx": 3,
+            "nbHorsGabarit": 5
+        },
+        "BPE2310GESAS30140": {
+            "BP": "BPE2310GESAS30140",
+            "sStatut": "10",
+            "nProg": 0,
+            "rs": "LEROY MERLIN",
+            "nBras": 5,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30144": {
+            "BP": "BPE2310GESAS30144",
+            "sStatut": "10",
+            "nProg": 0,
+            "rs": "LEROY MERLIN",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30145": {
+            "BP": "BPE2310GESAS30145",
+            "sStatut": "5",
+            "nProg": 0,
+            "rs": "LEROY MERLIN FRANCE",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30146": {
+            "BP": "BPE2310GESAS30146",
+            "sStatut": "5",
+            "nProg": 0,
+            "rs": "LEROY MERLIN 75008 MADELEINE",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 1
+        },
+        "BPE2310GESAS30153": {
+            "BP": "BPE2310GESAS30153",
+            "sStatut": "5",
+            "nProg": 0,
+            "rs": "LEROY MERLIN FRANCE",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30154": {
+            "BP": "BPE2310GESAS30154",
+            "sStatut": "5",
+            "nProg": 0,
+            "rs": "LEROY MERLIN FRANCE",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30038": {
+            "BP": "BPE2310GESAS30038",
+            "sStatut": "2",
+            "nProg": 0,
+            "rs": "ROBICER SARL",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 2,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30171": {
+            "BP": "BPE2310GESAS30171",
+            "sStatut": "2",
+            "nProg": 0,
+            "rs": "STAC EST ATTON",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 3,
+            "nbHorsGabarit": 2
+        },
+        "BPE2310GESAS30176": {
+            "BP": "BPE2310GESAS30176",
+            "sStatut": "2",
+            "nProg": 0,
+            "rs": "STAC SUD OUEST",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 1
+        },
+        "BPE2310GESAS30174": {
+            "BP": "BPE2310GESAS30174",
+            "sStatut": "2",
+            "nProg": 0,
+            "rs": "STAC BRIE COMTE ROBERT",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 1,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30178": {
+            "BP": "BPE2310GESAS30178",
+            "sStatut": "2",
+            "nProg": 0,
+            "rs": "STAC NORD IDF",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 2,
+            "nbHorsGabarit": 4
+        },
+        "BPE2310GESAS30162": {
+            "BP": "BPE2310GESAS30162",
+            "sStatut": "5",
+            "nProg": 0,
+            "rs": "DUCOS QUINCAILLERIE",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        },
+        "BPE2310GESAS30164": {
+            "BP": "BPE2310GESAS30164",
+            "sStatut": "5",
+            "nProg": 0,
+            "rs": "DIESEL GABON",
+            "nBras": 0,
+            "nPriorite": 2,
+            "nBadx": 0,
+            "nbHorsGabarit": 0
+        }
+    },
+    "eTRF1": 0,
+    "eTRF2": 27,
+    "eTRGC": 0,
+    "eTRG2": 0,
+    "BPTRFGC": "",
+    "BPTRFG2": "",
+    "Lignes": 112,
+    "nEncours": 5
+}
